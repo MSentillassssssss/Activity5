@@ -30,8 +30,8 @@ public class Act5 {
         
         System.out.println("\n");
         
-        double phpToEurRate = 2 ;
-        double eurToPhpRate = 60 ;
+        double phpToEurRate = 2.00 ;
+        double eurToPhpRate = 60.00 ;
         
         double convertedAmount;
         
